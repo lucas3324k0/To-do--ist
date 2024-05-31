@@ -15,10 +15,6 @@ Este projeto é uma aplicação web de To-Do List, criada para treinamento e apr
 - **Vite**: Ferramenta de build e desenvolvimento rápida.
 - **API Falsa**: Para simulação do backend e armazenamento dos dados das tarefas.
 
-## Visualização
-
-O projeto pode ser visualizado online através do link: [React To-Do List Project](#).
-
 ## Status do Projeto
 
 Atualmente, o projeto está funcional com todas as principais funcionalidades de uma To-Do List implementadas. Este projeto serve como base para futuras implementações e melhorias.
